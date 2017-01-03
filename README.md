@@ -1,7 +1,7 @@
 # SaferCrypto
-This solution is a C# .NET port of the `UnsafeCrypto` and `SaferCrypto` symmetric-key encryption PHP classes from Scott Arciszewski as published [on Stackoverflow](http://stackoverflow.com/a/30189841/541420).
+This solution is a C# .NET port of the `UnsafeCrypto` and `SaferCrypto` symmetric-key encryption PHP classes from Scott Arciszewski as published [on Stack Overflow](http://stackoverflow.com/a/30189841/541420).
 
-`SaferCrypto` Library usage:
+`SaferCrypto` library usage:
 
 ```c#
 var crypto = new SaferCrypto();
